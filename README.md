@@ -1,4 +1,4 @@
-# Hi, I'm Mostafa Sabry 👋
+# Hi, I'm Mostafa Sabry 
 
 ### Frontend Developer · Angular · TypeScript
 
